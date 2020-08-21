@@ -1,0 +1,20 @@
+"zombieplague"
+{
+	"base"		"base"
+	"title"		"Zombie Plague 1.0"
+	"maps"		"^zp_"
+	"menusystem"	"1"
+	
+	"settings"
+	{
+		1
+		{
+			"name"		"zp_eventrounds"
+			"text"		"Event Rounds"
+			"help"		"Enable or disable event rounds ex. nemesis or swarm"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+
+	}
+}
